@@ -2,8 +2,7 @@
 
 An internal team dashboard featuring an AI assistant powered by OpenAI, with conversation history and a searchable knowledge base for saving important Q&A pairs.
 
-Uploading bandicam 2025-10-02 13-42-27-760.mp4…
-
+https://github.com/user-attachments/assets/6d0c90fa-74b4-49c5-a6f5-bb5dd1588520
 
 ## Features
 
